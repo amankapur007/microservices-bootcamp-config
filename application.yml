@@ -2,9 +2,9 @@ my:
   app:
     name: properties from config sever updated
     list: Hello,World,TEST
-    map: "{connection:'https://____',host:'111',port:'8111'}"
+    map: "{connection:'https://____',host:'112',port:'8113'}"
 
 db:
   connection: connection-test-from-config-server
-  host: 111
-  port: 8111
+  host: 112
+  port: 8113
