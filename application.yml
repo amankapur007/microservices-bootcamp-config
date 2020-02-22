@@ -1,10 +1,10 @@
 my:
   app:
-    name: properties from config sever updated
+    name: properties from git cloud config repo
     list: Hello,World,TEST
-    map: "{connection:'https://____',host:'112',port:'8113'}"
+    map: "{connection:'https://github.com',host:'git',port:'6969'}"
 
 db:
-  connection: connection-test-from-config-server
-  host: 112
-  port: 8113
+  connection: git-connection-test-from-config-server
+  host: git
+  port: 6969
