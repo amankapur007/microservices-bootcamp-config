@@ -1,10 +1,10 @@
 my:
   app:
-    name: properties from config sever
-    list: Hello,World
-    map: "{connection:'https://____',host:'123',port:'8080'}"
+    name: properties from config sever updated
+    list: Hello,World,TEST
+    map: "{connection:'https://____',host:'111',port:'8111'}"
 
 db:
   connection: connection-test-from-config-server
-  host: 123
-  port: 8080
+  host: 111
+  port: 8111
